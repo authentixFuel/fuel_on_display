@@ -3,4 +3,5 @@ Here, we share Fuel and Sway repositories that are useful for developers buildin
 
 [Fraction Data Type Library](https://github.com/harshnambiar/fraction_sway)  
 [Signed Int Type Library](https://github.com/harshnambiar/signed_int_sway)  
-[First Fuel Smart Contract](https://github.com/harshnambiar/hello_sway) 
+[First Fuel Smart Contract](https://github.com/harshnambiar/hello_sway)  
+[Fuel and Fuelet Wallet Integration](https://github.com/harshnambiar/fuel_connect)  
